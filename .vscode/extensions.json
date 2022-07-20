@@ -2,6 +2,8 @@
   "recommendations": [
     "esbenp.prettier-vscode",
     "rust-lang.rust",
+    "serayuzgur.crates",
+    "bungcip.better-toml",
     "coenraads.bracket-pair-colorizer-2"
   ]
 }
